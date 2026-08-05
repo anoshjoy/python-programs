@@ -10,6 +10,7 @@ Welcome to my Python practice repository.
 - Greatest of Three Numbers
 - Calculator
 - Palindrome Checker
+- Conversions 
 
 ## Language
 
